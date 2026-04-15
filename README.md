@@ -62,11 +62,3 @@ TODO: The drive link for the "saved_embeddings" folder will be added. I could no
 TODO: The code files that convert VLM outputs from CVS to Parquet will be added.
 
 Execute the master script to run the full analysis and reporting pipeline: python run_all.py
-
-## Contact
-For double-blind review, please use the anonymous contact channel specified in the submission system.
-
-## NOTE: The repository will be transferred  to the official account if the paper is accepted.
-
-
-
